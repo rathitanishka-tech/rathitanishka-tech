@@ -64,16 +64,12 @@ A modern full-stack product built with a focus on thoughtful design, seamless us
 ### Let's Connect
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=x&logoColor=000000&labelColor=ffffff" alt="X" />
   <a href="https://www.linkedin.com/in/tanishka-rathi-168027273">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://github.com/rathitanishka-tech">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://fork-flow-eight.vercel.app/">
-    <img src="https://img.shields.io/badge/ForkFlow-Live%20Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white" />
+  <a href="mailto:rathitanishka07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
