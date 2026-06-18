@@ -10,7 +10,7 @@ Currently exploring the intersection of **Full Stack Development, AI, and Produc
 
 ### About Me
 
-- 🎓 Computer Engineering student
+- 🎓 Computer Engineering Student
 - 💻 Passionate about building modern web applications
 - 🎨 Interested in UI/UX, creative coding, and product engineering
 - 🚀 Building products that solve real-world problems
@@ -40,49 +40,58 @@ Currently exploring the intersection of **Full Stack Development, AI, and Produc
 
 ---
 
-### Featured Projects
+### Featured Project
 
-| Project                | Description                                             |
-| :--------------------- | :------------------------------------------------------ |
-| **ForkFlow**           | A modern product built with full-stack technologies.    |
-| **Balancio**           | Expense management with intelligent financial insights. |
-| **Personal Portfolio** | A creative space showcasing my work and journey.        |
+<table>
+<tr>
+<td width="100%">
+<h3 align="center">ForkFlow</h3>
+<p align="center">
+A modern full-stack product built with a focus on thoughtful design, seamless user experience, and engineering.
+<br/><br/>
+<a href="https://fork-flow-eight.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20ForkFlow-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
+</td>
+</tr>
+</table>
 
 ---
 
-### GitHub Overview
+### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=rathitanishka-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathitanishka-tech&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=rathitanishka-tech&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### Let's Connect
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+<a href="https://www.linkedin.com/in/tanishka-rathi-168027273">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/rathitanishka-tech">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://fork-flow-eight.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-ForkFlow-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Design with intention. Build with curiosity. Ship with purpose."</i>
+<i>"Design with intention. Build with curiosity. Ship with purpose."</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=8B5CF6" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=rathitanishka-tech&style=flat-square&color=8B5CF6" alt="Profile views" />
 </p>
