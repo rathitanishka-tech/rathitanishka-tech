@@ -64,7 +64,9 @@ A modern full-stack product built with a focus on thoughtful design, seamless us
 ### Let's Connect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=x&logoColor=000000&labelColor=ffffff" alt="X" />
+  <a href="https://x.com/tanishka_rathi">
+    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=x&logoColor=000000&labelColor=ffffff" alt="X" />
+  </a>
   <a href="https://www.linkedin.com/in/tanishka-rathi-168027273">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
