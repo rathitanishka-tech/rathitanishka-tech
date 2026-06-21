@@ -1,10 +1,10 @@
-# Hey, I'm Tanishka 👋
-
-### Full Stack Developer · Computer Engineering Student · Creative Builder
-
-I build digital experiences that combine thoughtful design with practical engineering.
-
-Currently exploring the intersection of **Full Stack Development, AI, and Product Design.**
+<p align="center">
+  <img
+    src="./assets/rathitanishka-tech.png"
+    alt="Tanishka Rathi — Build, Design, Create"
+    width="100%"
+  />
+</p>
 
 ---
 
