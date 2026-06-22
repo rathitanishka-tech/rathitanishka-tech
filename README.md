@@ -78,15 +78,6 @@ A modern full-stack product built with a focus on thoughtful design, seamless us
 ---
 
 <p align="center">
-  <i>Design with intention. Build with curiosity. Ship with purpose.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rathitanishka-tech&style=flat-square&color=8B5CF6" alt="Profile views" />
-</p>
----
-
-<p align="center">
 <i>"Design with intention. Build with curiosity. Ship with purpose."</i>
 </p>
 
