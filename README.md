@@ -48,9 +48,6 @@ A modern full-stack product built with a focus on thoughtful design, seamless us
 </p>
 <p align="center">
   <a href="https://fork-flow-eight.vercel.app/">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://fork-flow-eight.vercel.app/">
     <img src="https://img.shields.io/badge/VISIT%20FORKFLOW-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Visit ForkFlow" />
   </a>
 </p>
