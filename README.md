@@ -42,20 +42,18 @@
 
 ### Featured Project
 
-<table>
-<tr>
-<td width="100%">
 <h3 align="center">ForkFlow</h3>
 <p align="center">
 A modern full-stack product built with a focus on thoughtful design, seamless user experience, and engineering.
-<br/><br/>
-<a href="https://fork-flow-eight.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit%20ForkFlow-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
 </p>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://fork-flow-eight.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://fork-flow-eight.vercel.app/">
+    <img src="https://img.shields.io/badge/VISIT%20FORKFLOW-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Visit ForkFlow" />
+  </a>
+</p>
 
 ---
 
